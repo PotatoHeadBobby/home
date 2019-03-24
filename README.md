@@ -1,2 +1,2 @@
 # home
-Init files for home directory
+Init files for home directory, .emacs, .vimrc, etc.
