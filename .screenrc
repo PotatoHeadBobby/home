@@ -1,0 +1,2 @@
+hardstatus alwayslastline "%= %3n %t%? [%h]%? %="
+caption always "%= %-w%L>%{= BW}%n*%t%{-}%52<%+w %L="
